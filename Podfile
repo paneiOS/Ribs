@@ -7,8 +7,8 @@ target 'TicTacToe' do
   inhibit_all_warnings!
 
   # Pods for TicTacToe
-  pod 'RIBs', :path => '../../../'
+  pod 'RIBs'
   pod 'SnapKit'
-  pod 'RxCocoa', '~> 6.5'
+  pod 'RxCocoa'
 
 end
